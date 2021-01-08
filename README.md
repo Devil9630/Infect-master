@@ -54,7 +54,7 @@ Infect is a bash based script which is officially made for termux users and from
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/infect`
+* `https://github.com/Devil9630/Infect-master.git`
 * `cd $HOME`
 * `ls`
 * `cd infect`
